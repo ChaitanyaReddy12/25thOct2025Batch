@@ -11,6 +11,9 @@ Given('I launch the browser', async function () {
 
     console.log(" I launch the browser ")
 
+
+    
+
     browser = await chromium.launch({
 
         headless: false,
