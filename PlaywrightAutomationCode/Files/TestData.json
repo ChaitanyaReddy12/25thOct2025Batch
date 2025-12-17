@@ -1,0 +1,28 @@
+{
+    "TestData1": {
+        "Name": "Shrikant",
+        "Email": "shrikant@gmail.com",
+        "Phone": "9876543210",
+        "Address": "Hyderabad",
+        "Wikipedia": "testing"
+    },
+    "TestData2": {
+        "Name": "Shrinath",
+        "Email": "Shrinath@yahoo.com",
+        "Phone": "9009900990",
+        "Address": "Chennai",
+        "Wikipedia": "playwright"
+    },
+     "TestData3": {
+        "Name": "Vani",
+        "Email": "vani@outlook.com",
+        "Phone": "6789012345",
+        "Address": "Bangalore",
+        "Wikipedia": "Selenium",
+        "Color":"Blue"
+    },
+    "OrangeHRMCredentials": {
+        "Username": "Admin",
+        "Password": "admin123"
+    }
+}
