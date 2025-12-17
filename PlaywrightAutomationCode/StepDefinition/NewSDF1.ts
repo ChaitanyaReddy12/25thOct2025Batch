@@ -1,9 +1,6 @@
 import { Given, setDefaultTimeout, Then, } from '@cucumber/cucumber';
-
 import { Page, Browser } from 'playwright';
-
 import { chromium, expect, firefox, webkit } from 'playwright/test';
-
 import { TestData1, TestData2, TestData3, OrangeHRMCredentials } from "../Files/TestData.json"
 
 let browser: Browser, page: Page
